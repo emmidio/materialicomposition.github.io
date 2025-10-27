@@ -1,0 +1,6 @@
+title: My Minimal Site
+description: A small Jekyll site using jekyll-theme-minimal
+theme: jekyll-theme-minimal
+# For user sites set url to https://<your-username>.github.io
+# url: "https://USERNAME.github.io"
+# baseurl: "" # leave blank unless deploying to a subpath
